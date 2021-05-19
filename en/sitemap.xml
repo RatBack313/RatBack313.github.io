@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://ratback313.github.io/about/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://ratback313.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://ratback313.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://ratback313.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/posts/1/01/what-do-i-want-to-do/</loc>
+    <loc>https://ratback313.github.io/posts/1/01/what-do-i-want-to-do/</loc>
   </url><url>
-    <loc>https://example.com/posts/1/01/spotify-premium/</loc>
+    <loc>https://ratback313.github.io/posts/1/01/spotify-premium/</loc>
   </url><url>
-    <loc>https://example.com/categories/hacking/</loc>
+    <loc>https://ratback313.github.io/categories/hacking/</loc>
   </url><url>
-    <loc>https://example.com/posts/1/01/port-scanner/</loc>
+    <loc>https://ratback313.github.io/posts/1/01/port-scanner/</loc>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://ratback313.github.io/posts/</loc>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://ratback313.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://ratback313.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://ratback313.github.io/series/"
                 />
   </url><url>
-    <loc>https://example.com/categories/shop/</loc>
+    <loc>https://ratback313.github.io/categories/shop/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ratback313.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://ratback313.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://ratback313.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://ratback313.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://ratback313.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://ratback313.github.io/"
                 />
   </url>
 </urlset>
