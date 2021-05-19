@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hello Friend 😄
+I&amp;rsquo;m RatBack.
+You Can Use My Free Tools and learn somethings from Blog posts🙌 If You Had Problem, You can text me on discord or telegram 🤍
+Good Hack 🤚</description>
+    </item>
+    
+    <item>
+      <title>What do I want to do</title>
+      <link>https://example.com/posts/1/01/what-do-i-want-to-do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/1/01/what-do-i-want-to-do/</guid>
+      <description>I want post somethings here like: hacking tools, useful py scripts, tricks &amp;amp;&amp;hellip;
+You can use Free 😄</description>
+    </item>
+    
+    <item>
+      <title>Spotify Premium </title>
+      <link>https://example.com/posts/1/01/spotify-premium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/1/01/spotify-premium/</guid>
+      <description>You can buy Spotify Premium Account with 50% off.
+text me on discord or telegram.</description>
+    </item>
+    
+    <item>
+      <title>Port Scanner</title>
+      <link>https://example.com/posts/1/01/port-scanner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/1/01/port-scanner/</guid>
+      <description>Hey..
+I Coded a simple port scanner in python
+You Can download it here
+Good Hack.</description>
+    </item>
+    
+  </channel>
+</rss>
